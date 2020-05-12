@@ -6,7 +6,7 @@ import time
 
 class zazapbot():
     def __init__(self):
-        self.falacorno = "Bom dia amigos e amigas"
+        self.falacorno = "any message"
         self.grupos = ["Oi"]
         options = webdriver.ChromeOptions()
         options.add_argument('lang=pt-br')
